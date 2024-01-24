@@ -17,5 +17,7 @@ public class Stringoperation {
 		System.out.println(str.toLowerCase());
 		System.out.println(str.substring(0, 10));
 		System.out.println("String operation is completed");
+		
+		System.out.println("These lines are added by the USA architect");
 	}
 }

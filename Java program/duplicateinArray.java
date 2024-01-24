@@ -14,6 +14,7 @@ public class duplicateinArray {
 					
 					System.out.println("Duplicate element in the array is " + names[j]);
 					System.out.println("Added new lines to check git new branch");
+					System.out.println("These lines are added by the USA architect");
 				}
 				
 			}	
