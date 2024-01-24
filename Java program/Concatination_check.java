@@ -15,6 +15,9 @@ public class Concatination_check {
 		System.out.println("x+y+(a+b) --> "+x+y+(a+b));	
 		System.out.println("a+b+x+y --> "+a+b+x+y);
 		System.out.println("a+b+x+y --> "+(a+b)+x+y);
+		System.out.println("The value of A is "+ a);
+		System.out.println("The value of B is "+ b);
+		
 	}
 
 }
