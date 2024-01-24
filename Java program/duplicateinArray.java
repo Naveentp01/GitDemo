@@ -13,6 +13,7 @@ public class duplicateinArray {
 				if (names[i].equals(names[j])) {
 					
 					System.out.println("Duplicate element in the array is " + names[j]);
+					System.out.println("Added new lines to check git new branch");
 				}
 				
 			}	

@@ -22,6 +22,7 @@ public class SmallesrorLargestinarray {
 		}
 		System.out.println(" Largest number in the array is "+ Largest);
 		System.out.println(" Smallest number in the array is "+ Smallest);
+		System.out.println("Added new lines to check git new branch");
 		
 	}
 
