@@ -16,5 +16,6 @@ public class Stringoperation {
 		System.out.println(str.replace('i', 'I'));
 		System.out.println(str.toLowerCase());
 		System.out.println(str.substring(0, 10));
+		System.out.println("String operation is completed");
 	}
 }
